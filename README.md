@@ -1,6 +1,6 @@
 # prolog-hw
 
-This Git repo contains my codes in Prolog.
+This Git repo contains my codes (and other people's codes) in Prolog.
 
 Copyright © 2019 Ade Naufal Ammar ade@nitipmerch.com
 
