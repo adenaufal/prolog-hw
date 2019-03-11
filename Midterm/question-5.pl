@@ -1,6 +1,7 @@
 /* This program, known as 'Genap and Ganjil', will define the number is odd or even, based on your input. */
 	
-ganjilgenap:-nl,
+ganjilgenap :-
+	nl,
 	write('Masukkan nilai: '),read(N),
 	Result is N mod 2,
 	Result is 0,
